@@ -214,3 +214,63 @@ body {
     width: 920px;
     padding-left: 5px;
 }
+
+@media screen and (max-width: 980px) {
+    
+}
+
+@media screen and (max-width: 768px) {
+    
+    .meImg {
+        display: block;
+        width: 50%;
+        height: 50%;
+
+    }
+
+}
+
+@media screen and (max-width: 640px) {
+
+    .body {
+        width: 100%;
+    }
+    .headerMargins {
+        width: 100%;
+    }
+    .headerNav {
+        background-color: #ffffff;
+        margin-right: 0px;
+        height: 126px;
+        width: 100%;
+
+    }
+
+    .name {
+        width: 100%;
+        text-align: center;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .topnav {
+        width: 100%;
+        margin-bottom: 25px;
+        border-bottom: 2px solid #cccccc;
+        text-align: center;
+
+    }
+
+    .bodyMargins {
+        margin: auto;
+        margin-top: 100px;
+        margin-bottom: 150px;
+        width: 90%;
+    }
+
+    .meImg {
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+}
