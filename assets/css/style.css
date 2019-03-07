@@ -250,7 +250,19 @@ body {
         width: 100%;
         height: auto;
     }
-    
+
+    .col2 {
+        left: 400px;
+    }
+
+    /* ========== Contact Page ========== */
+    .exampleText {
+        width: 100%;
+    }
+
+    .messageInput {
+        width: 100%;
+    }
 }
 
     /* ========================================= */
@@ -286,6 +298,20 @@ body {
     .picLabels {
         width: 100%;
         height: auto;
+    }
+
+    .col2 {
+        left: 310px;
+    
+    }
+
+    /* ========== Contact Page ========== */
+    .exampleText {
+        width: 100%;
+    }
+
+    .messageInput {
+        width: 100%;
     }
 }
 
@@ -373,6 +399,16 @@ body {
     .smallRow5 {
         left: 0px;
         top: 1000px;
+    }
+
+    /* ========== Portfolio Page ========== */
+
+    .exampleText {
+        width: 100%;
+    }
+
+    .messageInput {
+        width: 100%;
     }
 
     
